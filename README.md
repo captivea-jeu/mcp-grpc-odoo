@@ -1,3 +1,5 @@
+# THIS IS A WIP, I JUST SETUP gRPC on Odoo and was able to hit the endpoint, now I'm trying to integrate it with the odoo-mcp library for better performance
+
 # Odoo MCP Server
 
 An MCP server implementation that integrates with Odoo ERP systems, enabling AI assistants to interact with Odoo data and functionality through the Model Context Protocol.
